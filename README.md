@@ -20,6 +20,9 @@ They must go into './mp3/' folder.
 ## wiring
 
 GPIO Pin: 2 -> Sensor: VCC
+
 GPIO Pin: 6 -> Sensor: GND
+
 GPIO Pin: 16 -> Sensor: Trig
-GPIO Pin: 18 -> Sensor: Echo
+
+GPIO Pin: 18 -> Sensor: Echo 
