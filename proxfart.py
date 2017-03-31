@@ -33,7 +33,7 @@ def do_fart():
   while pygame.mixer.music.get_busy() == True:
     continue
 
-farts = glob.glob('./snd/*.mp3')  # collect sounds
+farts = glob.glob('./mp3/*.mp3')  # collect sounds
 setup_init()
 
 try:
